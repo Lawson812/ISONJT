@@ -1,4 +1,3 @@
-
 $(document).ready(function () {
  
   // preloader
@@ -6,6 +5,6 @@ $(document).ready(function () {
     $('.preloader').delay(1200).fadeOut(200);
   })
 	
+ 
 
 })
- ScrollReveal().reveal('.photos', {delay:200});
